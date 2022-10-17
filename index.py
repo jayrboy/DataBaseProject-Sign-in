@@ -10,7 +10,7 @@ app.secret_key = 'Jakkrit Onsomkrit'
 
 #Connect MySQL Server
 conn = mysql.connect(
-    host = 'localhost', #IP Address 202.44.34.40
+    host = 'localhost', #IP Address
     user = 'root',
     passwd = '',
     port = 3306,
